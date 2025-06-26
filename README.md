@@ -13,6 +13,6 @@
 
 ---
 [![](https://visitcount.itsvg.in/api?id=BHARATHWAJK33&icon=0&color=0)](https://visitcount.itsvg.in)
-![](https://komarev.com/ghpvc/?username=BHARATHWAJK33&color=red&style=for-the-badge)
+![](https://komarev.com/ghpvc/?username=BHARATHWAJK33&color=blue&style=for-the-badge)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
